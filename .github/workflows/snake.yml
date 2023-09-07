@@ -8,7 +8,7 @@ on:
 
   push:
     branches:
-    - master
+    - main
 
 jobs:
   generate:
@@ -31,7 +31,7 @@ jobs:
             git config user.email "actions@github.com"
             git add snake.svg
             git commit -m "Update snake.svg"
-            git push --set-upstream origin master
+            git push --set-upstream origin main
         env:
             GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN }}
 
