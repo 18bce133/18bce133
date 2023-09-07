@@ -32,3 +32,6 @@ jobs:
           git add snake.svg
           git commit -m "Update snake.svg"
           git push
+        env:
+            GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN }}
+
