@@ -34,6 +34,6 @@ jobs:
             git remote -v  # Add this line for debugging
             git commit -m "Update snake.svg"
             git push --set-upstream origin master
-        env:
-            GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN }}
+        with:
+            ACCESS_TOKEN: ${{ secrets.GITHUBTOKEN }}
 
