@@ -76,7 +76,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/18bce133/18bce133/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/18bce133/Nihar-Profile/blob/master/snake.svg" alt="Snake animation" />
 
 ###
 
