@@ -27,11 +27,13 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add snake.svg
-          git commit -m "Update snake.svg"
-          git push
+            git config user.name "GitHub Actions"
+            git config user.email "actions@github.com"
+            git add snake.svg
+            git status  # Add this line for debugging
+            git remote -v  # Add this line for debugging
+            git commit -m "Update snake.svg"
+            git push --set-upstream origin master
         env:
             GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN }}
 
