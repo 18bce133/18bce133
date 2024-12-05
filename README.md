@@ -76,10 +76,10 @@
 
 ###
 
-<img src="https://github.com/18bce133/Nihar-Profile/blob/master/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/18bce133/Nihar-Profile/main/snake.svg" alt="Snake animation" />
 
 ###
 
-<p align="left">I'm Nihar Jayeshbhai Thakkar, a passionate computer science enthusiast with a focus on machine learning and software development. My academic and professional journey has equipped me with a diverse skill set and a drive to explore innovative technologies.<br><br>🎓 Education:<br><br>Master of Science in Computer Science (Aug 2022 - Dec 2023) from Arizona State University, Tempe, Arizona<br><br>Bachelor of Technology in Computer Science (Jul 2018 - Jul 2022) from the Institute of Technology, Nirma University, Ahmedabad, India,</p>
+<p align="left">I'm Nihar Jayeshbhai Thakkar, a passionate computer science enthusiast with a focus on machine learning and software development. My academic and professional journey has equipped me with a diverse skill set and a drive to explore innovative technologies.<br><br>🎓 Education:<br><br>Master of Science in Computer Science (Aug 2022 - May 2024) from Arizona State University, Tempe, Arizona<br><br>Bachelor of Technology in Computer Science (Jul 2018 - Jul 2022) from the Institute of Technology, Nirma University, Ahmedabad, India,</p>
 
 ###
